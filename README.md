@@ -19,3 +19,12 @@
 * Course - https://365datascience.teachable.com/p/time-series-analysis-in-python
 * Dataset - Attached
 ![Time Series Analysis](/Certificates/365-Data-Science-time-series-analysis-in-python.jpg)
+
+## Introduction to Microsoft Excel
+![Time Series Analysis](/Certificates/365-Data-Science-introduction-to-microsoft-excel.jpg)
+
+## Advanced Microsoft Excel
+![Time Series Analysis](/Certificates/365-Data-Science-advanced-microsoft-excel.jpg)
+
+## Advanced Statistical Methods
+![Time Series Analysis](/Certificates/365-Data-Science-advanced-statistical-methods-in-python.jpg)
